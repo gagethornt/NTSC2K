@@ -2,6 +2,8 @@ NTSC2K is a Windows OpenFX video effect that recreates digital video compression
 
  _The production of this plugin was inspired by [Finn McKenty’s open-source NTSCRT app](https://github.com/finnmckenty/NTSCRT) and its [video distortion demo](https://x.com/thefinnmckenty/status/2119903587409293437). NTSC2K brings a similar range of vintage/modern video looks to VEGAS Pro as an OFX effect. It is a separate project and does not use every part of NTSCRT. Check it out and show support to the creator!_
 
+<img width="960" height="540" alt="preview" src="https://github.com/user-attachments/assets/0379ccb3-b7e8-4ff4-8672-65c3350223a4" />
+
 ## Installation
 
 1. Close VEGAS Pro.
